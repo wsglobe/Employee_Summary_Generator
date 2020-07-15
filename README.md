@@ -5,7 +5,7 @@ A command line interface to generate a team roster with individual employee info
 <img src="./Assets/1.png">
 
 # Tests: 
-Node.js tests for Classes and constructors have been written for this app. All of the test suites passed. 
+Node.js tests for classes and constructors have been written for this app. All of the test suites passed. 
 
 # License: 
 ISC
